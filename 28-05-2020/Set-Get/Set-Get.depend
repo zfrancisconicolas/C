@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1527348545 source:c:\users\alumno\desktop\set-get\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527350665 source:d:\usuario no tocar\desktop\ejemplos-archivos-en-c-master\set-get\dato.c
+	<stdio.h>
+	"Dato.h"
+
+1527350665 d:\usuario no tocar\desktop\ejemplos-archivos-en-c-master\set-get\dato.h
+
+1527350665 source:d:\usuario no tocar\desktop\ejemplos-archivos-en-c-master\set-get\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Dato.h"
+

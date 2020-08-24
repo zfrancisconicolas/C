@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526997166 source:c:\test\scarafilo\clase archivos\html\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527350665 source:d:\usuario no tocar\desktop\ejemplos-archivos-en-c-master\html\main.c
+	<stdio.h>
+	<stdlib.h>
+
